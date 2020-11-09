@@ -1,0 +1,10 @@
+C:\C#Project\WeBrowser\AIFast\AIFast\bin\Debug\AIFast.exe.config
+C:\C#Project\WeBrowser\AIFast\AIFast\bin\Debug\AIFast.exe
+C:\C#Project\WeBrowser\AIFast\AIFast\bin\Debug\AIFast.pdb
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.csprojAssemblyReference.cache
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.frmMain.resources
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.Properties.Resources.resources
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.csproj.GenerateResource.cache
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.csproj.CoreCompileInputs.cache
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.exe
+C:\C#Project\WeBrowser\AIFast\AIFast\obj\Debug\AIFast.pdb

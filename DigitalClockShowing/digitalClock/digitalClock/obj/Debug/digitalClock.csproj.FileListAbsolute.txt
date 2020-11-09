@@ -1,0 +1,10 @@
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\bin\Debug\digitalClock.exe.config
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\bin\Debug\digitalClock.exe
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\bin\Debug\digitalClock.pdb
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.csprojAssemblyReference.cache
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.Form1.resources
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.Properties.Resources.resources
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.csproj.GenerateResource.cache
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.csproj.CoreCompileInputs.cache
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.exe
+C:\C#Project\DigitalClockShowing\digitalClock\digitalClock\obj\Debug\digitalClock.pdb

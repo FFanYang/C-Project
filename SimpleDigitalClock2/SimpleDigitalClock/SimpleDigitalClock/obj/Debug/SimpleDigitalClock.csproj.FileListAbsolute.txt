@@ -1,0 +1,10 @@
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csprojAssemblyReference.cache
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.Clock.resources
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.Properties.Resources.resources
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csproj.GenerateResource.cache
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.csproj.CoreCompileInputs.cache
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.exe.config
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.exe
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\SimpleDigitalClock.pdb
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.exe
+C:\C#Project\SimpleDigitalClock2\SimpleDigitalClock\SimpleDigitalClock\obj\Debug\SimpleDigitalClock.pdb

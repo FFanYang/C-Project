@@ -1,0 +1,10 @@
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\bin\Debug\MatchImageGame.exe.config
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\bin\Debug\MatchImageGame.exe
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\bin\Debug\MatchImageGame.pdb
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.csprojAssemblyReference.cache
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.Form1.resources
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.Properties.Resources.resources
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.csproj.GenerateResource.cache
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.csproj.CoreCompileInputs.cache
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.exe
+C:\C#Project\MatchGame\MatchImageGame\MatchImageGame\obj\Debug\MatchImageGame.pdb
